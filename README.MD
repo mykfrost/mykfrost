@@ -1,7 +1,7 @@
 # Hi there, I'm Michael Okello - aka [mykfrost] 👋 
 
 
-[![Website](https://img.shields.io/website?label=mykfrost.com&style=for-the-badge&url=https%3A%2F%2Fmykfrost.com)](http://chinatown254.blogspot.com/)
+[![Website](https://img.shields.io/website?label=https://chinatown254.blogspot.com/&style=for-the-badge&url=https%3A%2F%2Fhttps://chinatown254.blogspot.com/)](http://chinatown254.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mykfrost?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmykfrost&screen_name=mykfrost)
 
 
@@ -29,7 +29,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...] http://chinatown254.blogspot.com/
+➡️ [more blog posts...] https://chinatown254.blogspot.com/
 
 ---
 
