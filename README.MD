@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Michael Okello</h1>
+<h1 align="center">Hi 👋, I'm Michael Otieno Okello</h1>
 <h3 align="left">A passionate frontend developer from Nairobi Kenya</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mykfrost&label=Profile%20views&color=0e75b6&style=flat" alt="mykfrost" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mykfrost" alt="mykfrost" /></a> </p>
-
-- 📝 I regularly write articles on [https://chinatown254.blogspot.com/](https://chinatown254.blogspot.com/)
+- 📝 I regularly write articles on [https://chinatown254.blogspot.com/]
 ## I'm a Husband, Father and Frontend Developer!
 - ⚡ Fun fact **I Love Marvel Movies**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mykfrost&label=Profile%20views&color=0e75b6&style=flat" alt="mykfrost" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mykfrost" alt="mykfrost" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mykfrost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mykfrost" height="30" width="40" /></a>
