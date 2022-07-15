@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Michael Otieno Okello</h1>
 <h3 align="left">A passionate frontend developer from Nairobi Kenya</h3>
 
-- 📝 I regularly write articles on [https://chinatown254.blogspot.com/]
+
 ## I'm a Husband, Father and Frontend Developer!
 - ⚡ Fun fact **I Love Marvel Movies**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
+
+- 📝 I regularly write articles on [https://chinatown254.blogspot.com/]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykfrost&label=Profile%20views&color=0e75b6&style=flat" alt="mykfrost" /> </p>
 
