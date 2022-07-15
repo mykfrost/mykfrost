@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michael Okello</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
+<h3 align="left">A passionate frontend developer from Nairobi Kenya</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykfrost&label=Profile%20views&color=0e75b6&style=flat" alt="mykfrost" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mykfrost" alt="mykfrost" /></a> </p>
 
 - 📝 I regularly write articles on [https://chinatown254.blogspot.com/](https://chinatown254.blogspot.com/)
-
+## I'm a Husband, Father and Frontend Developer!
 - ⚡ Fun fact **I Love Marvel Movies**
-
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mykfrost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mykfrost" height="30" width="40" /></a>
@@ -23,13 +26,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykfrost&" alt="mykfrost" /></p>
 
 
-### 📕 Latest Blog Posts
+### 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advantages and disadvantges of Technology ](https://chinatown254.blogspot.com/2019/04/advantages-and-disadvantages-of.html)
+- [Mobile Technology in Africa](https://chinatown254.blogspot.com/2018/04/mobile-technology-in-africa.html)
+- [How to make a self hosted wordpress blog](https://chinatown254.blogspot.com/2017/12/how-to-make-self-hosted-wordpress.html)
+- [What is Google's AR Core ?](https://chinatown254.blogspot.com/2018/07/what-is-googles-arcore-details-inside.html)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...] https://chinatown254.blogspot.com/
+➡️ [more blog posts...] (https://chinatown254.blogspot.com/)
 
 ---
 
