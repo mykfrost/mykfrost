@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father and Frontend Developer!
 - ⚡ Fun fact **I Love Marvel Movies**
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 
