@@ -4,11 +4,11 @@
 
 ## I'm a Husband, Father and Frontend Developer!
 - ⚡ Fun fact **I Love Marvel Movies**
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-
-- 📝 I regularly write articles on [https://chinatown254.blogspot.com/]
+- 🌱 I’m currently learning ReactJS & Kotlin
+- 👯 I’m looking to collaborate with other ANDROID developers
+- 🥅 2024 Goals: Learn more about Web technologies & Android with Kotlin
+[https://chinatown254.blogspot.com/]
+- 📝 I regularly write articles on [https://chinatown254.blogspot.com/] and i am an online manager at [https://euro-chef.co.ke/]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykfrost&label=Profile%20views&color=0e75b6&style=flat" alt="mykfrost" /> </p>
 
